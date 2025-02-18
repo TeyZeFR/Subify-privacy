@@ -1,18 +1,40 @@
-# Politique de Confidentialité - GestionAbonnements
+# Politique de Confidentialité - Subify
 
-## Données personnelles
+## Dernière mise à jour : 02/25
 
-- Aucune donnée personnelle n'est collectée
-- Toutes les données sont stockées localement sur votre appareil
-- Aucune transmission de données à des serveurs externes
+### 1. Collecte et Utilisation des Informations
 
-## Permissions de l'application
+L'application Subify collecte et stocke UNIQUEMENT les informations que vous saisissez manuellement :
+- Nom des abonnements
+- Prix
+- Date de prélèvement
+- Catégorie
+- Description optionnelle
 
-- Notifications : Pour rappeler les prélèvements
-- Stockage : Pour export/import des données
+Ces données sont :
+- Stockées localement sur votre appareil
+- Ne sont jamais transmises à des serveurs externes
+- Ne sont pas partagées avec des tiers
 
-## Contact
+### 2. Permissions
+
+L'application requiert les permissions suivantes :
+- Notifications : Pour vous alerter des prochains prélèvements
+- Stockage : Pour l'export/import de données à votre demande
+
+### 3. Sécurité des Données
+
+- Toutes les données sont stockées sur votre appareil
+- Aucune connexion internet n'est nécessaire
+- Aucune donnée n'est collectée ou vendue
+
+### 4. Modifications des Données
+
+Vous pouvez à tout moment :
+- Modifier vos abonnements
+- Supprimer des abonnements
+- Réinitialiser toutes les données
+
+### 5. Contact
 
 Pour toute question : anthony70400@gmail.com
-
-Dernière mise à jour : Février 2025
